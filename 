@@ -1,0 +1,15 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   Data/test.csv
+#	new file:   Data/train.csv
+#	new file:   Data/train_result.csv
+#	new file:   MNIST_classification.ipynb
+#	new file:   kaggle1_ml2022_from_web.py
+#	new file:   mnist_all.mat
+#
